@@ -27,7 +27,7 @@ function Board({ xTurn, squares, onPlay }) {
   if (winner) {
     status = winner + " WIN";
   } else {
-    status = "Player " + (xTurn ? "X" : "O") + " Turn";
+    status = "Player " + (xTurn ? "X" : "O") + " Turn ";
   }
   return (
     <>
@@ -71,13 +71,13 @@ function jumpTo(nextMove){
   const moves = history.map((squares, move) => {
     let desc = " ";
     if (move > 0) {
-      desc = "go to move # " + move;
+      desc = " go to move # " + move;
     } else {
-      desc = "go to start";
+      desc = " go to start";
     }
     return (
       <li key={move}>
-        <button onClick={() => jumpTo(move)}>{desc}</button>
+        <button className="font-bold underline border-4 rounded-lg ml-2"onClick={() => jumpTo(move)}>{desc}</button>
       </li>
     );
   });
