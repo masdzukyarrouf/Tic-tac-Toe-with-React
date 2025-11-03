@@ -4,7 +4,7 @@ A simple Tic-Tac-Toe game built using React and TypeScript (or plain JavaScript)
 
 ## Live Demo
 
-    Check it out : [Tic Tac Toe](https://tic-tac-toe-withreact.vercel.app/)
+Check it out : [Tic Tac Toe](https://tic-tac-toe-withreact.vercel.app/)
 
 ## Features
 - Two-player mode (X vs O)  
