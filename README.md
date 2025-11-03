@@ -26,6 +26,7 @@ Check it out : [Tic Tac Toe](https://tic-tac-toe-withreact.vercel.app/)
 - Styling with Tailwind CSS
 - Deploying a React app to  Vercel
 
+
 ## Installation
 ```bash
 git clone https://github.com/masdzukyarrouf/Tic-Tac-Toe-with-React.git
