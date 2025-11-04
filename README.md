@@ -1,6 +1,6 @@
 # Tic-Tac-Toe with React
 
-A simple Tic-Tac-Toe game built using React and TypeScript (or plain JavaScript) to demonstrate UI creation, state management and component structure.
+A simple Tic-Tac-Toe game built using React and TypeScript  to demonstrate UI creation, state management and component structure.
 
 ## Live Demo
 
@@ -11,7 +11,7 @@ Check it out : [Tic Tac Toe](https://tic-tac-toe-withreact.vercel.app/)
 - Highlights winning line  
 - Restart / New game button  
 - Go back to specified move
-- Clean and responsive layout with Tailwind CSS (if used)  
+- Clean and responsive layout with Tailwind CSS 
 - Uses React Hooks for state management
 
 ## Tech Stack
